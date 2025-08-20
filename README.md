@@ -16,8 +16,8 @@ El objetivo es poner en práctica el uso de *microcontroladores, sensores, comun
 ---
 
 ## ⚙ Tecnologías y herramientas utilizadas
-- 🔹 *Plataforma:* STM32 / Arduino / ESP32 (ajustar según corresponda)  
+- 🔹 *Plataforma:* STM32 / ESP32  
 - 🔹 *Lenguaje:* C / C++  
-- 🔹 *Entorno de desarrollo:* STM32CubeIDE / Arduino IDE / PlatformIO  
+- 🔹 *Entorno de desarrollo:* STM32CubeIDE / Arduino IDE   
 - 🔹 *Otros:* Git, GitHub, documentación en Markdown  
 ##  Estructura del repositorio
