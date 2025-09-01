@@ -16,6 +16,7 @@ El objetivo es poner en práctica el uso de *microcontroladores, sensores, comun
 ---
 
 
+Practica 1
 
 // Programa: Encender 10 LEDs en secuencia
 
@@ -41,3 +42,6 @@ void loop() {
     digitalWrite(leds[i], LOW);    // Apagar LED
   }
 }
+
+Practica 2
+
